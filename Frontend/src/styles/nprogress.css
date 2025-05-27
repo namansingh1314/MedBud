@@ -1,0 +1,8 @@
+#nprogress .bar {
+  background: var(--chakra-colors-blue-500) !important;
+  height: 3px !important;
+}
+
+#nprogress .peg {
+  box-shadow: 0 0 10px var(--chakra-colors-blue-500), 0 0 5px var(--chakra-colors-blue-500) !important;
+}
