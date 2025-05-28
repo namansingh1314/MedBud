@@ -46,7 +46,7 @@ function App() {
         <ChakraProvider theme={theme}>
           <AuthProvider>
             <Helmet>
-              <title>MedRec - Medicine Recommendation System</title>
+              <title>MedBud - Medicine Recommendation System</title>
               <meta
                 name="description"
                 content="Get personalized medicine recommendations based on your symptoms and conditions"
