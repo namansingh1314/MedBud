@@ -1,4 +1,5 @@
 # Med bud
+[![Watch the video](https://img.youtube.com/vi/EtY3cMuWxfQ/hqdefault.jpg)](https://youtu.be/EtY3cMuWxfQ?si=BZKkF9VhnauBSoai)
 
 ## Overview
 
